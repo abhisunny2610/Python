@@ -1,0 +1,27 @@
+2023-09-30 21:49:32,240 This is info message
+2023-09-30 21:50:06,795 This is warning message
+2023-09-30 22:26:02,889 No such comm target registered: jupyter.widget.control
+2023-09-30 22:26:02,895 No such comm: 4d4e6dd1-f56e-4f97-8338-38cf9ba2b7a4
+2023-09-30 22:37:37,565 No such comm target registered: jupyter.widget.control
+2023-09-30 22:37:37,571 No such comm: 1c5b68f5-09e0-46c7-8c5c-a607c372e348
+2023-10-01 00:30:37,466 No such comm target registered: jupyter.widget.control
+2023-10-01 00:30:37,492 No such comm: 5368a4ff-e171-405e-87ca-673bc4c38944
+2023-10-01 01:48:27,393 No such comm target registered: jupyter.widget.control
+2023-10-01 01:48:27,398 No such comm: bd5fefaa-961c-4bdc-adf9-03e74adc7af5
+2023-10-01 01:51:56,993 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,997 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,997 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,998 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,998 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,998 i am inside if staement and i am trying to check list type
+2023-10-01 01:51:56,998 i am in another for loop for list inside list element
+2023-10-01 01:51:56,998 i am in another for loop for list inside list element
+2023-10-01 01:51:56,998 i am in another for loop for list inside list element
+2023-10-01 01:51:56,998 i am in another for loop for list inside list element
+2023-10-01 01:51:56,998 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,998 We are iterating through our list and our local var is i
+2023-10-01 01:51:56,998 We are iterating through our list and our local var is i
+2023-10-01 02:12:03,423 No such comm target registered: jupyter.widget.control
+2023-10-01 02:12:03,429 No such comm: fca3b842-ee80-4370-adba-8374f79c5f00
+2023-10-01 02:18:00,876 No such comm target registered: jupyter.widget.control
+2023-10-01 02:18:00,884 No such comm: 9b91521d-3696-4e51-a7e8-63e7b47010dc

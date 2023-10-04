@@ -1,0 +1,36 @@
+INFO:root:This line of exceutation.
+WARNING:root:This is warning msg
+INFO:root:This is info message
+INFO:root:This is info message
+INFO:root:This is info message
+INFO:root:This is info message
+INFO:root:This is info message
+INFO:root:This is info message
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0d7e318d-8933-47fb-a373-2371d2f39cbc
+INFO:root:This is info message
+INFO:root:This line of exceutation.
+WARNING:root:This is warning msg
+INFO:root:This is info message
+WARNING:root:This is warning message
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:i am inside if staement and i am trying to check list type
+INFO:root:i am in another for loop for list inside list element
+INFO:root:i am in another for loop for list inside list element
+INFO:root:i am in another for loop for list inside list element
+INFO:root:i am in another for loop for list inside list element
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:We are iterating through our list and our local var is i
+INFO:root:We are iterating through our list and our local var is i
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 4b2d9cbc-0007-4e1e-8834-c1666755b48c
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 30439966-5581-406a-b769-147315f1e3a1
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: ad8123a0-eef7-460c-819c-d422f309014f
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 496ce138-6f89-4a0c-82e3-a640b3dd9236
